@@ -1,4 +1,4 @@
-# clone [Bower](https://img.shields.io/bower/l/clone)
+# clone ![Bower](https://img.shields.io/bower/l/clone)
 实现JavaScript引用对象的深拷贝功能
 
 ### 使用者指南
